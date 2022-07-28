@@ -6,7 +6,7 @@
 ### RR Management
 
 !!! info
-	`reactrole`, `reactionrole`, and `rr` are all aliases for the same base command.
+	`reactrole`, `reactionrole`, and `rr` are all aliases for the same base command. 
 
 ???+ tldr "RR Management"
 
